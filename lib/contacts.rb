@@ -21,4 +21,5 @@ def remove_strawberry(contacts)
       if detail == :favorite_ice_cream_flavors
         remove "strawberry"
       end 
+    end 
 end
